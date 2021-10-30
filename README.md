@@ -2,6 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.11.
 
+## Dependencies of Project
+
+- bootstrap: npm install --save bootstrap
+- concurrently: npm install --save concurrently
+- jquery: npm install --save jquery
+- json-server: npm install --save json-server
+- font-awesome: npm install --save font-awesome
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
