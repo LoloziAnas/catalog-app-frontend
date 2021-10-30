@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": 45666,
+      "quantity": 600,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Keyboard",
+      "price": 4862,
+      "quantity": 89,
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Monitor",
+      "price": 88452,
+      "quantity": 896,
+      "selected": true,
+      "available": false
+    },
+    {
+      "id": 4,
+      "name": "Headphones",
+      "price": 46,
+      "quantity": 4500,
+      "selected": true,
+      "available": true
+    }
+  ]
+}
